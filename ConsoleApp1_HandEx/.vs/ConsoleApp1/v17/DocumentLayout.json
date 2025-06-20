@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE12C8F7-142F-44BF-AF3C-D05F8F92F7D2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ahmood\\desktop\\csharp_new\\consoleapp1 - copy - copy - copy\\consoleapp1\\apps\\passwordmanager\\encryptionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE12C8F7-142F-44BF-AF3C-D05F8F92F7D2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\apps\\passwordmanager\\encryptionutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE12C8F7-142F-44BF-AF3C-D05F8F92F7D2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ahmood\\desktop\\csharp_new\\consoleapp1 - copy - copy - copy\\consoleapp1\\apps\\passwordmanager\\encryptionanddecryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE12C8F7-142F-44BF-AF3C-D05F8F92F7D2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\apps\\passwordmanager\\encryptionanddecryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE12C8F7-142F-44BF-AF3C-D05F8F92F7D2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ahmood\\desktop\\csharp_new\\consoleapp1 - copy - copy - copy\\consoleapp1\\apps\\passwordmanager\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE12C8F7-142F-44BF-AF3C-D05F8F92F7D2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\apps\\passwordmanager\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE12C8F7-142F-44BF-AF3C-D05F8F92F7D2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ahmood\\desktop\\csharp_new\\consoleapp1 - copy - copy - copy\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE12C8F7-142F-44BF-AF3C-D05F8F92F7D2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\ConsoleApp1\\Apps\\PasswordManager\\App.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Apps\\PasswordManager\\App.cs",
+              "ToolTip": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\ConsoleApp1\\Apps\\PasswordManager\\App.cs",
+              "RelativeToolTip": "ConsoleApp1\\Apps\\PasswordManager\\App.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:43:25.332Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:21:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptionUtility.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\ConsoleApp1\\Apps\\PasswordManager\\EncryptionUtility.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Apps\\PasswordManager\\EncryptionUtility.cs",
+              "ToolTip": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\ConsoleApp1\\Apps\\PasswordManager\\EncryptionUtility.cs",
+              "RelativeToolTip": "ConsoleApp1\\Apps\\PasswordManager\\EncryptionUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:53:49.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncryptionAndDecryption.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\ConsoleApp1\\Apps\\PasswordManager\\EncryptionAndDecryption.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Apps\\PasswordManager\\EncryptionAndDecryption.cs",
+              "ToolTip": "C:\\Users\\Ahmood\\Desktop\\CSharp_New\\ConsoleApp1 - Copy - Copy - Copy\\ConsoleApp1\\Apps\\PasswordManager\\EncryptionAndDecryption.cs",
+              "RelativeToolTip": "ConsoleApp1\\Apps\\PasswordManager\\EncryptionAndDecryption.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAADwv6MAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:43:26.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
